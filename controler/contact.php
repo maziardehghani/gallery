@@ -1,0 +1,1 @@
+<?phpclass contact extends controller{    public function __construct()    {    }    public function index()    {        $this->viewUrl('contact/index');    }}

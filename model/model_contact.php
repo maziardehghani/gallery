@@ -1,0 +1,1 @@
+<?phpclass model_contact extends model{}
